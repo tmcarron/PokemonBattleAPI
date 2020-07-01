@@ -1,0 +1,10 @@
+C:\Users\tmcar\source\repos\PokemonBattle\bin\Debug\PokemonBattle.exe.config
+C:\Users\tmcar\source\repos\PokemonBattle\bin\Debug\PokemonBattle.exe
+C:\Users\tmcar\source\repos\PokemonBattle\bin\Debug\PokemonBattle.pdb
+C:\Users\tmcar\source\repos\PokemonBattle\obj\Debug\PokemonBattle.csprojAssemblyReference.cache
+C:\Users\tmcar\source\repos\PokemonBattle\obj\Debug\PokemonBattle.Bg_Form.resources
+C:\Users\tmcar\source\repos\PokemonBattle\obj\Debug\PokemonBattle.Properties.Resources.resources
+C:\Users\tmcar\source\repos\PokemonBattle\obj\Debug\PokemonBattle.csproj.GenerateResource.cache
+C:\Users\tmcar\source\repos\PokemonBattle\obj\Debug\PokemonBattle.csproj.CoreCompileInputs.cache
+C:\Users\tmcar\source\repos\PokemonBattle\obj\Debug\PokemonBattle.exe
+C:\Users\tmcar\source\repos\PokemonBattle\obj\Debug\PokemonBattle.pdb
